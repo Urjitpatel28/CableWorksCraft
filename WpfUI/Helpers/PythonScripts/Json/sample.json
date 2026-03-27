@@ -1,0 +1,23 @@
+{
+  "parameters": {
+    "height": 25,
+    "num_concentric_cylinders": 7,
+
+    "spacing_1": 15,
+    "spacing_2": 2,
+    "spacing_3": 2,
+    "spacing_4": 2,
+    "spacing_5": 0,
+    "spacing_6": 0,
+    "spacing_7": 0,
+
+    "wire_radius": 1,
+    "innersheaththickness": 5,
+    "outersheaththickness": 5,
+    "cylinder_radius": 2,
+
+    "num_cylinders_per_layer": [ 3 ]
+  },
+  "outputFile": "C:/Temp/CableConfigurator/Outputs/finalCable5.fcstd",
+  "logFile": "C:/Temp/CableConfigurator/Outputs/cableconfig.log"
+}

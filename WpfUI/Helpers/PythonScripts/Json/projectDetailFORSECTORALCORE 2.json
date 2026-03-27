@@ -1,0 +1,114 @@
+{
+    "conductor_radius": 10.0,
+    "wire_radius": 1.0,
+    "offset_radius1": 8.0,
+    "offset_radius2": 9.0,
+    "full_radius": 10.0,
+    "numCylindersPerLayer": 3.5,
+    "fillet_radius": 0.5,
+    "preinnersheaththickness": 1.0,
+    "innersheaththickness": 1.0,
+    "overinnersheaththickness": 1.0,
+    "armor_choice": "1",
+    "cylinder_radius": 0.5,
+    "side_length": 0.0,
+    "side_thickness": 0.0,
+    "armortapingthickness": 1.0,
+    "outersheaththickness": 1.0,
+    "outputFile": "C:\\ProjectRoot\\sample4\\Outputs\\sample123_Shaped.fcstd",
+    "logFile": "C:\\ProjectRoot\\sample4\\sample_shaped.log",
+    "conductorScreenColor": [
+        1.0,
+        0.0,
+        0.4
+    ],
+    "insulationColor": [
+        0.1,
+        0.0,
+        0.4
+    ],
+    "nometallicScreenColor": [
+        0.0,
+        0.0,
+        0.9
+    ],
+    "wireColor": [
+        0.9,
+        0.5,
+        0.0
+    ],
+    "preinnersheathcolor": [
+        1.0,
+        1.0,
+        0.4
+    ],
+    "innersheathcolor": [
+        0.0,
+        0.7,
+        0.0
+    ],
+    "overinnersheathcolor": [
+        0.9,
+        0.5,
+        0.0
+    ],
+    "armorcolor": [
+        1.0,
+        1.0,
+        0.4
+    ],
+    "armortapingcolor": [
+        0.0,
+        0.0,
+        0.9
+    ],
+    "outersheathcolor": [
+        1.0,
+        0.0,
+        0.4
+    ],
+    "printingMatter": "ABC",
+    "condscreencolor1": [
+        1.0,
+        0.5,
+        0.4
+    ],
+    "condscreencolor2": [
+        0.1,
+        0.0,
+        0.4
+    ],
+    "condscreencolor3": [
+        1.0,
+        0.0,
+        0.0
+    ],
+    "condscreencolor4": [
+        0.1,
+        0.6,
+        0.4
+    ],
+    "condscreencolor5": [
+        1.0,
+        0.6,
+        0.4
+    ],
+    "fraccondscreencolor": [
+        1.0,
+        0.2,
+        0.2
+    ],
+    "outercolorchoice": 2.0,
+    "oangle": 160.0,
+    "outercolor1": [
+        1.0,
+        0.5,
+        0.4
+    ],
+    "outercolor2": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Calculated outer radius": 16.0
+}
